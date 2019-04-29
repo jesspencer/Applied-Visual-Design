@@ -1,3 +1,4 @@
 # Free Code Camp (FCC)
 
-## Exercises 
+## Exercises
+The JSON files from the exercises are included 
