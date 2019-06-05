@@ -5,8 +5,9 @@ I decided to do the tribute page using the subject Jeff Bezos, Amazon CEO and fo
 
 # Details
 This projects was created using:
-* - HTML
-* - CSS
+* - #HTML
+* - #CSS
+* - #JS
 
 ## Associated Lessons
 The JSON files from the exercises done to learn css and html are included.
