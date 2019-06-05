@@ -5,7 +5,7 @@ I decided to do the tribute page using the subject Jeff Bezos, Amazon CEO and fo
 
 # Details
 This projects was created using:
-* - ![HTML]
+* - HTML
 * - CSS
 * - JS
 
